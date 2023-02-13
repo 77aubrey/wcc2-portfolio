@@ -1,2 +1,2 @@
-# wcc2-portfolio
+# wcc-portfolio
  
